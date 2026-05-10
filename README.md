@@ -28,7 +28,7 @@ T-shaped Product Owner and Project Manager with a strong technical background an
 - Provide strong product leadership to cross-functional teams by clarifying priorities, resolving requirement ambiguities, and enabling high-quality delivery.  
 - Act as a trusted product partner to stakeholders, ensuring transparent communication and facilitating decision-making.  
 - Developed a free, highly efficient chatbot API platform handling over 115M messages monthly.  
-- Delivered 70+ commercial branded interactive chatbot products supporting campaigns for global brands such as Visa, LEGO, Disney, and Coca-Cola.  
+- Delivered 70+ commercial branded interactive chatbot products supporting campaigns for global brands such as [Visa](img/gg_visa.png), LEGO, Disney, and Coca-Cola.  
 
 ---
 
