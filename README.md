@@ -14,7 +14,7 @@ T-shaped Product Owner and Project Manager with a strong technical background an
 - Coordinate project execution by defining scope, milestones, dependencies, and delivery schedules across cross-functional teams.  
 - Monitor project progress, risks, and issues, driving mitigation actions and ensuring transparency through regular stakeholder reporting.  
 - Maintain project governance and documentation standards, ensuring alignment with organizational processes, compliance requirements, and delivery best practices.  
-- Act as Technical Project Manager in a project related to the commercialization of on-device Live Translate (real-time call translation) for Samsung Galaxy S24, coordinating delivery across product, engineering, and localization teams.  
+- Act as Technical Project Manager in a project related to the commercialization of on-device [Live Translate (real-time call translation) for Samsung Galaxy S24](img/samsung_live_translate.png), coordinating delivery across product, engineering, and localization teams.  
 - Explore and apply agent-based AI workflows to improve operational efficiency and process automation.
 
 ---
@@ -28,7 +28,7 @@ T-shaped Product Owner and Project Manager with a strong technical background an
 - Provide strong product leadership to cross-functional teams by clarifying priorities, resolving requirement ambiguities, and enabling high-quality delivery.  
 - Act as a trusted product partner to stakeholders, ensuring transparent communication and facilitating decision-making.  
 - Developed a free, highly efficient chatbot API platform handling over 115M messages monthly.  
-- Delivered 70+ commercial branded interactive chatbot products supporting campaigns for global brands such as [Visa](img/gg_visa.png), [LEGO](img/gg_lego.png), [Disney](img/gg_disney.png), and [Coca-Cola](img/gg_coca-cola.png).  
+- Delivered 70+ commercial branded [interactive chatbot](https://www.youtube.com/watch?v=t92E7wCtkVg) products supporting campaigns for global brands such as [Visa](img/gg_visa.png), [LEGO](img/gg_lego.png), [Disney](img/gg_disney.png), and [Coca-Cola](img/gg_coca-cola.png).  
 
 ---
 
