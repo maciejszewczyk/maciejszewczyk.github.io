@@ -27,7 +27,7 @@ T-shaped Product Owner and Project Manager with a strong technical background an
 - Translate complex business problems and market insights into well-structured product requirements and acceptance criteria.  
 - Provide strong product leadership to cross-functional teams by clarifying priorities, resolving requirement ambiguities, and enabling high-quality delivery.  
 - Act as a trusted product partner to stakeholders, ensuring transparent communication and facilitating decision-making.  
-- Developed a free, highly efficient chatbot API platform handling over 115M messages monthly.  
+- Developed a free, highly efficient [chatbot API platform](https://boty.gg.pl/) handling over 115M messages monthly.  
 - Delivered 70+ commercial branded [interactive chatbot](https://www.youtube.com/watch?v=t92E7wCtkVg) products supporting campaigns for global brands such as [Visa](img/gg_visa.png), [LEGO](img/gg_lego.png), [Disney](img/gg_disney.png), and [Coca-Cola](img/gg_coca-cola.png).  
 
 ---
@@ -37,7 +37,7 @@ T-shaped Product Owner and Project Manager with a strong technical background an
 **Product Lead & Co-Founder**  
 *2004-10 – Present*
 
-- Co-created and scaled one of Poland’s first mass-market informational chatbots, leading product development from early MVP to acquisition by Gadu-Gadu in 2008.  
+- Co-created and scaled one of Poland’s first mass-market informational chatbots, leading product development from early MVP to acquisition by [Gadu-Gadu in 2008](https://pl.wikipedia.org/wiki/Infobot).  
 - Defined and evolved conversational features and user experience, delivering utility-driven capabilities such as weather, translations, financial data, and automated responses.  
 - Grew the product to over 5M users, reaching up to 700K monthly active users and handling over 20M messages, demonstrating large-scale adoption of conversational interfaces.  
 - Relaunched the product in 2019 using AI/NLP technologies (Dialogflow, Google Cloud), enabling scalable natural language interactions across messaging platforms (Messenger, Telegram).  
